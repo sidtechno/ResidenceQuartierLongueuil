@@ -1,11 +1,11 @@
 GODADDY
 
-Voici les accès pour la villa Germaine-Dupré:  nom utilisateur : 74soreltracy
+Voici les accÃ¨s pour la villa Germaine-DuprÃ©:  nom utilisateur : 74soreltracy
 
 Mot de passe: SorelTracy74
 Pin: 7400
 
-Pour la résidence du Quartier Longueuil: nom utilisateur: 480675longueuil
+Pour la rÃ©sidence du Quartier Longueuil: nom utilisateur: 480675longueuil
 
 Mot de passe : Longueuil480675
 Pin: 4806
@@ -17,6 +17,10 @@ WORDPRESS :
 user: admin
 pass: Doogie01!
 
+FTP :
+
+user:residence
+pass: Doogie01!
 
 #152851
 
