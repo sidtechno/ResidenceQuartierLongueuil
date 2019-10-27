@@ -15,7 +15,7 @@ Pin: 4806
 WORDPRESS :
 
 user: admin
-pass: Doogie01!
+pass: 3^*tGa2U2bG(&aP%pWs1cgS!
 
 FTP :
 
