@@ -17,6 +17,9 @@ WORDPRESS :
 user: admin
 pass: 3^*tGa2U2bG(&aP%pWs1cgS!
 
+user: admin-2
+pass: Myctc58Xgy!*X&Kpjg@lFh&#
+
 FTP :
 
 user:residence
